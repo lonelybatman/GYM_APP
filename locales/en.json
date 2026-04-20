@@ -1,0 +1,16 @@
+{
+  "muscles": {
+    "Chest": "Chest",
+    "Back": "Back",
+    "Triceps": "Triceps",
+    "Biceps": "Biceps",
+    "Shoulders": "Shoulders",
+    "Forearm": "Forearm",
+    "Legs": "Legs",
+    "Core": "Core",
+    "Glute": "Glute",
+    "Calves": "Calves",
+    "Abductors": "Abductors",
+    "Adductors": "Adductors"
+  }
+}

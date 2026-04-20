@@ -1,0 +1,69 @@
+-- =============================================================================
+-- Leitfaden: Free + Cable · Triceps · overhead extension — DB-Modell & Checks
+-- =============================================================================
+--
+-- 1) Drei getrennte Zeilen in `exercises` (gleicher Name/Kontext, andere id):
+--    Pro Ausführungsebene (lat / l-s / sag) EINE exercise_id.
+--    Die App lädt `equipment` nur für die aktuelle exercise_id — daher müssen
+--    alle Attachments (d-handle var, ropes, …) pro exercise die richtigen
+--    `details`-Flags haben (plane_lat / plane_ls / plane_sag in euren Keys,
+--    siehe App-Mapping in lib/queries/exercises.ts → normalizeEquipmentConfig).
+--
+-- 2) Varianten-Gruppe (Router + „Ausführung“-Picker):
+--    - exercise_variant_group id …000017
+--    - Achse: dimension_key = plane
+--    - exercise_variant_member: je eine Zeile mit discriminant
+--        {"plane": "ls"} | {"plane": "lat"} | {"plane": "sag"}
+--      und der passenden exercise_id.
+--    Genau EIN Member sollte is_default_entry = true (erscheint im Plan-Picker;
+--      Nicht-Defaults werden per fetchNonDefaultVariantExerciseIds ausgeblendet).
+--
+-- 3) Seeds im Repo:
+--    - data/exercise_variant_schema.sql
+--    - data/exercise_variant_seed_execution_duplicates.sql  (enthält Gruppe …017 + Member)
+--    Rohdaten-Zeilen (Beispiel-UUIDs aus Export): data/new_DB/exercises_rows.csv
+--    z. B. 307f2e6f-… (ls, superdefault), a79a30bd-… (lat), e4236f7e-… (sag).
+--    Equipment-Beispiele: data/new_DB/equipment_rows.csv (nach exercise_id filtern).
+--
+-- 4) Ablauf für eine frische DB (wenig manuelle Arbeit):
+--    a) Optional CSV aktualisieren: data/new_DB/exercises_rows.csv,
+--       data/new_DB/equipment_rows.csv
+--    b) Repo-Root:  npm run generate:fc-oh-sql
+--       → erzeugt data/seed_fc_oh_triceps_from_csv.sql (3 Übungen + 30 Equipment-Zeilen)
+--    c) Diese .sql im Supabase SQL Editor ausführen (muscle_id 7924… = Triceps muss existieren)
+--    d) Varianten-SQL: exercise_variant_schema.sql + exercise_variant_seed_execution_duplicates.sql
+--    e) Optional die Checks unten — 0 Zeilen = OK.
+--
+-- =============================================================================
+-- Checks (nach Import; ersetze UUIDs falls eure Export-IDs abweichen)
+-- =============================================================================
+
+-- Gruppe und Member
+-- SELECT g.label, m.sort_order, m.is_default_entry, m.discriminant, m.exercise_id
+-- FROM exercise_variant_member m
+-- JOIN exercise_variant_group g ON g.id = m.group_id
+-- WHERE g.id = 'a1000000-0000-4000-8000-000000000017'
+-- ORDER BY m.sort_order;
+
+-- Jeweils mindestens ein „Standard“-Attachment pro Exercise (star oder true — je nach Import)
+-- SELECT e.id, e.exercise_name, COUNT(*) FILTER (
+--     WHERE eq.is_default_setup IN ('star', 'true')
+--   ) AS defaultish_count
+-- FROM exercises e
+-- LEFT JOIN equipment eq ON eq.exercise_id = e.id AND eq.is_default_setup <> 'false'
+-- WHERE e.id IN (
+--   '307f2e6f-4403-4ed6-8805-25099c660dce',
+--   'a79a30bd-d721-4117-a45c-6fbd44152dfb',
+--   'e4236f7e-d066-4d5e-a76a-777eeea053de'
+-- )
+-- GROUP BY e.id, e.exercise_name;
+
+-- Exercises ohne Equipment (sollte leer sein)
+-- SELECT e.id, e.exercise_name
+-- FROM exercises e
+-- WHERE e.id IN (
+--   '307f2e6f-4403-4ed6-8805-25099c660dce',
+--   'a79a30bd-d721-4117-a45c-6fbd44152dfb',
+--   'e4236f7e-d066-4d5e-a76a-777eeea053de'
+-- )
+-- AND NOT EXISTS (SELECT 1 FROM equipment eq WHERE eq.exercise_id = e.id);
