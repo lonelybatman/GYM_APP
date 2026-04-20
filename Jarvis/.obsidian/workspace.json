@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "2981e1f2bb61fb5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "543ab0d0070e520a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57fa4d4fcfe16bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 — Entwicklung/Architektur/Commands Claude Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commands Claude Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1906ea0a791d6c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf0c560bd570920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2b82226a3daa899",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "64447701bd64d438",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          },
+          {
+            "id": "4d0bb94f9afa5edb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6f05bec3ebedc878",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72580a0661fd6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69ae28bc3e88c69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bilder Videos/Claude Perspektiven.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf Claude Perspektiven"
+            }
+          },
+          {
+            "id": "a7c86d1d8952b68a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bilder Videos/Claude Perspektiven.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Claude Perspektiven öffnen"
+            }
+          },
+          {
+            "id": "0d18a64bb64abcc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6da72c08ff94c224",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "c22afc58c277d02e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bilder Videos/Claude Perspektiven.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Claude Perspektiven"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "57fa4d4fcfe16bdf",
+  "lastOpenFiles": [
+    "01 — Entwicklung/KI & Scan/OpenSim/OpenSim vorbereiten.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/Bearbeiten Anleitung.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/OpenSim gemini.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/To Do.md",
+    "01 — Entwicklung/Architektur/claude.md",
+    "Pasted image 20260419162657.png",
+    "01 — Entwicklung/Architektur/Commands Claude Code.md",
+    "01 — Entwicklung/3D & Visualisierung/3D Modell mit blender.md",
+    "01 — Entwicklung/3D & Visualisierung/3D Modell in der App.md",
+    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
+    "01 — Entwicklung/KI & Scan/Plan_2 (Gemini + gpai).md",
+    "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
+    "01 — Entwicklung/3D & Visualisierung/Claude Perspektiven.md",
+    "MOC — Gym App.md",
+    "01 — Entwicklung/KI & Scan/OpenSim",
+    "01 — Entwicklung/Architektur/Claude code.md",
+    "01 — Entwicklung/Datenbank/excel data to superbase.md",
+    "03 — Ressourcen/Youtube videos.md",
+    "03 — Ressourcen/Unbenannt.md",
+    "03 — Ressourcen/Scans.md",
+    "03 — Ressourcen/lernen.md",
+    "03 — Ressourcen/Icons.md",
+    "Unbenannt.canvas",
+    "Pasted image 20260408222436.png",
+    "Pasted image 20260405221643.png",
+    "Pasted image 20260327193522.png",
+    "Pasted image 20260327193516.png",
+    "Pasted image 20260326094449.png",
+    "MOC — Gym App.md.tmp.12252.1776004650424",
+    "02 — Planung/To Do/sedsV7fnm",
+    "02 — Planung/To Do/sedhvWZ1i",
+    "01 — Entwicklung/KI & Scan/sedaaTrwD",
+    "01 — Entwicklung/Datenbank/sedfIkt5k",
+    "01 — Entwicklung/Datenbank/seddkE5L6",
+    "01 — Entwicklung/Exercise Builder/sedyMq7t5",
+    "01 — Entwicklung/3D & Visualisierung/sed5zPvkQ",
+    "02 — Planung/To Do/sed4vT1Zj",
+    "excel data to superbase.md",
+    "02 — Planung/Changelog/02.04..md",
+    "02 — Planung/Changelog/31.03..md",
+    "02 — Planung/Changelog/30.03..md",
+    "02 — Planung/To Do/TRAAAASH.md"
+  ]
+}

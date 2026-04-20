@@ -1,0 +1,16 @@
+{
+  "muscles": {
+    "Chest": "Brust",
+    "Back": "Rücken",
+    "Triceps": "Trizeps",
+    "Biceps": "Bizeps",
+    "Shoulders": "Schulter",
+    "Forearm": "Unterarm",
+    "Legs": "Beine",
+    "Core": "Core",
+    "Glute": "Gesäß",
+    "Calves": "Waden",
+    "Abductors": "Abduktoren",
+    "Adductors": "Adduktoren"
+  }
+}

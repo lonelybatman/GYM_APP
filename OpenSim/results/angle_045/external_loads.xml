@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="40000">
+    <ExternalLoads name="barbell">
+        <objects>
+            <ExternalForce name="barbell_right">
+                <applied_to_body>radius_r</applied_to_body>
+                <force_expressed_in_body>ground</force_expressed_in_body>
+                <point_expressed_in_body>radius_r</point_expressed_in_body>
+                <data_source_name>C:\Users\kubis\gym-app\OpenSim\results\angle_045\forces.mot</data_source_name>
+                <force_identifier>barbell_force_</force_identifier>
+                <point_identifier>barbell_point_</point_identifier>
+                <torque_identifier></torque_identifier>
+            </ExternalForce>
+        </objects>
+        <datafile>C:\Users\kubis\gym-app\OpenSim\results\angle_045\forces.mot</datafile>
+    </ExternalLoads>
+</OpenSimDocument>
