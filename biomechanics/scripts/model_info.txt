@@ -1,0 +1,610 @@
+[info] Updating Model file from 30000 to latest format...
+[info] Loaded model Bimanual from file C:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\MoBL_ARMS_bimanual_6_2_21.osim
+[warning] Body 'thorax' is massless but nonzero inertia provided.
+[warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[warning] Visualizer couldn't open clavicle_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\clavicle_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open scapula_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\scapula_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open humerus_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\humerus_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open ulna_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\ulna_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open radius_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\radius_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open lunate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\lunate_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfastSCAPHOIDw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastSCAPHOIDw_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfastPISIFORMw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastPISIFORMw_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfastTRIQUETRALw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastTRIQUETRALw_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_5mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_5mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_4mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_4mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_3mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_3mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_2mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_2mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_trapezium_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_trapezium_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_trapezoid_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_trapezoid_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_hamate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_hamate_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open capitate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\capitate_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_2proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_2midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_2distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_3proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_3midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_3distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_4proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_4midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_4distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_5proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_5midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_5distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_thumbprox_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_thumbprox_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_thumbdist_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_thumbdist_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] Visualizer couldn't open hand_1mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:598:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_1mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at PolygonalMesh.cpp:519:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Only format="ascii" is supported for .vtp file DataArray elements, got format="appended" for Points DataArray.
+  (Required condition 'pointData.getRequiredAttributeValue("format") == "ascii"' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[warning] Body 'thorax' is massless but nonzero inertia provided.
+[warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+=== KOORDINATEN ===
+r_x                                      default=0.0000 rad
+r_y                                      default=-1.5708 rad
+r_z                                      default=0.0000 rad
+t_x                                      default=0.0000 rad
+t_y                                      default=0.0000 rad
+t_z                                      default=0.0000 rad
+sternoclavicular_r2_r                    default=-0.1267 rad
+sternoclavicular_r3_r                    default=0.0537 rad
+unrotscap_r3_r                           default=-0.0537 rad
+unrotscap_r2_r                           default=0.1267 rad
+acromioclavicular_r2_r                   default=-0.0257 rad
+acromioclavicular_r3_r                   default=0.2073 rad
+acromioclavicular_r1_r                   default=0.0932 rad
+unrothum_r1_r                            default=-0.0932 rad
+unrothum_r3_r                            default=-0.2073 rad
+unrothum_r2_r                            default=0.0257 rad
+elv_angle_r                              default=0.0000 rad
+shoulder_elv_r                           default=0.5236 rad
+shoulder1_r2_r                           default=-0.0000 rad
+shoulder_rot_r                           default=-0.0000 rad
+elbow_flexion_r                          default=1.5708 rad
+pro_sup_r                                default=-0.0000 rad
+deviation_r                              default=0.0000 rad
+flexion_r                                default=0.0000 rad
+wrist_hand_r1_r                          default=0.0000 rad
+wrist_hand_r3_r                          default=0.0000 rad
+sternoclavicular_r2_l                    default=-0.1267 rad
+sternoclavicular_r3_l                    default=0.0537 rad
+unrotscap_r3_l                           default=-0.0537 rad
+unrotscap_r2_l                           default=0.1267 rad
+acromioclavicular_r2_l                   default=-0.0257 rad
+acromioclavicular_r3_l                   default=0.2073 rad
+acromioclavicular_r1_l                   default=0.0932 rad
+unrothum_r1_l                            default=-0.0932 rad
+unrothum_r3_l                            default=-0.2073 rad
+unrothum_r2_l                            default=0.0257 rad
+elv_angle_l                              default=0.0000 rad
+shoulder_elv_l                           default=0.5236 rad
+shoulder1_r2_l                           default=-0.0000 rad
+shoulder_rot_l                           default=-0.0000 rad
+elbow_flexion_l                          default=1.5708 rad
+pro_sup_l                                default=-0.0000 rad
+deviation_l                              default=0.0000 rad
+flexion_l                                default=0.0000 rad
+wrist_hand_r1_l                          default=0.0000 rad
+wrist_hand_r3_l                          default=0.0000 rad
+
+=== BODIES ===
+thorax
+clavicle_r
+clavphant_r
+scapula_r
+scapphant_r
+humphant_r
+humphant1_r
+humerus_r
+ulna_r
+radius_r
+proximal_row_r
+hand_r
+clavicle_l
+clavphant_l
+scapula_l
+scapphant_l
+humphant_l
+humphant1_l
+humerus_l
+ulna_l
+radius_l
+proximal_row_l
+hand_l
+
+=== MUSKELN ===
+DELT1_r
+DELT2_r
+DELT3_r
+SUPSP_r
+INFSP_r
+SUBSC_r
+TMIN_r
+TMAJ_r
+PECM1_r
+PECM2_r
+PECM3_r
+LAT1_r
+LAT2_r
+LAT3_r
+CORB_r
+TRIlong_r
+TRIlat_r
+TRImed_r
+ANC_r
+SUP_r
+BIClong_r
+BICshort_r
+BRA_r
+BRD_r
+ECRL_r
+ECRB_r
+ECU_r
+FCR_r
+FCU_r
+PL_r
+PT_r
+PQ_r
+FDSL_r
+FDSR_r
+FDSM_r
+FDSI_r
+FDPL_r
+FDPR_r
+FDPM_r
+FDPI_r
+EDCL_r
+EDCR_r
+EDCM_r
+EDCI_r
+EDM_r
+EIP_r
+EPL_r
+EPB_r
+FPL_r
+APL_r
+DELT1_l
+DELT2_l
+DELT3_l
+SUPSP_l
+INFSP_l
+SUBSC_l
+TMIN_l
+TMAJ_l
+PECM1_l
+PECM2_l
+PECM3_l
+LAT1_l
+LAT2_l
+LAT3_l
+CORB_l
+TRIlong_l
+TRIlat_l
+TRImed_l
+ANC_l
+SUP_l
+BIClong_l
+BICshort_l
+BRA_l
+BRD_l
+ECRL_l
+ECRB_l
+ECU_l
+FCR_l
+FCU_l
+PL_l
+PT_l
+PQ_l
+FDSL_l
+FDSR_l
+FDSM_l
+FDSI_l
+FDPL_l
+FDPR_l
+FDPM_l
+FDPI_l
+EDCL_l
+EDCR_l
+EDCM_l
+EDCI_l
+EDM_l
+EIP_l
+EPL_l
+EPB_l
+FPL_l
+APL_l

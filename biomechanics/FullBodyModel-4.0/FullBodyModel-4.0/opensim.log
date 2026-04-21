@@ -1,0 +1,512 @@
+[2026-04-16 23:59:29.577] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:29.611] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:29.927] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:29.950] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_000\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:29.950] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-16 23:59:29.990] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:30.019] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:30.264] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:30.283] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_015\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:30.283] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-16 23:59:30.320] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:30.351] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:30.596] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:30.614] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_030\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:30.614] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-16 23:59:30.651] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:30.686] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:30.937] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:30.956] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_045\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:30.956] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-16 23:59:30.992] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:31.021] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:31.268] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:31.285] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_060\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:31.285] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-16 23:59:31.336] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 23:59:31.366] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-16 23:59:31.613] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-16 23:59:31.632] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_090\forces.mot (nr=2 nc=7)
+[2026-04-16 23:59:31.632] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:44.120] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:44.151] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:44.416] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:44.450] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:44.690] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:44.708] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_000\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:44.709] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:44.742] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:44.772] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:45.019] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:45.049] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:45.286] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:45.304] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_015\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:45.304] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:45.337] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:45.367] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:45.627] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:45.655] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:45.893] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:45.911] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_030\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:45.912] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:45.944] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:45.974] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:46.237] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:46.266] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:46.506] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:46.524] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_045\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:46.524] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:46.558] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:46.586] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:46.836] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:46.865] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:47.102] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:47.119] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_060\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:47.119] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:07:47.152] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:47.180] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:47.429] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:07:47.458] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-17 00:07:47.696] [info] ExternalLoads 'barbell' was renamed and is being reset to 'externalloads'.
+[2026-04-17 00:07:47.715] [info] Storage: read data file = C:\Users\kubis\gym-app\OpenSim\results\angle_090\forces.mot (nr=2 nc=7)
+[2026-04-17 00:07:47.715] [info] ExternalForce::barbell_right Data source being set to Forces
+[2026-04-17 00:10:03.785] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 00:10:03.818] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-19 21:33:12.445] [info] Updating Model file from 30000 to latest format...
+[2026-04-19 21:33:12.517] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\kubis\gym-app\OpenSim\FullBodyModel-4.0\FullBodyModel-4.0\Rajagopal2015.osim
+[2026-04-19 21:37:30.608] [info] Updating Model file from 30000 to latest format...
+[2026-04-19 21:37:30.826] [info] Loaded model Bimanual from file C:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\MoBL_ARMS_bimanual_6_2_21.osim
+[2026-04-19 21:37:30.829] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2026-04-19 21:37:30.829] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2026-04-19 21:37:30.844] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.845] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.846] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.847] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.848] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.848] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.848] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.849] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.849] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.849] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.850] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.851] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.852] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.853] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.854] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.855] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.856] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.857] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.858] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.858] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.858] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.858] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.859] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.860] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.861] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.862] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2026-04-19 21:37:30.863] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2026-04-19 21:37:31.867] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2026-04-19 21:37:31.867] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2026-04-19 21:37:33.186] [warning] Visualizer couldn't open clavicle_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\clavicle_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.188] [warning] Visualizer couldn't open scapula_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\scapula_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.188] [warning] Visualizer couldn't open humerus_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\humerus_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.191] [warning] Visualizer couldn't open ulna_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\ulna_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.191] [warning] Visualizer couldn't open radius_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\radius_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.193] [warning] Visualizer couldn't open lunate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\lunate_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.195] [warning] Visualizer couldn't open sdfastSCAPHOIDw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastSCAPHOIDw_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.199] [warning] Visualizer couldn't open sdfastPISIFORMw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastPISIFORMw_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.201] [warning] Visualizer couldn't open sdfastTRIQUETRALw_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfastTRIQUETRALw_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.204] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_5mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_5mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.206] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_4mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_4mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.211] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_3mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_3mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.215] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_2mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_2mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.217] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_trapezium_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_trapezium_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.218] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_trapezoid_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_trapezoid_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.221] [warning] Visualizer couldn't open sdfast_1seg_hand_fr_c_hamate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\sdfast_1seg_hand_fr_c_hamate_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.223] [warning] Visualizer couldn't open capitate_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\capitate_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.224] [warning] Visualizer couldn't open hand_2proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.225] [warning] Visualizer couldn't open hand_2midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.226] [warning] Visualizer couldn't open hand_2distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_2distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.228] [warning] Visualizer couldn't open hand_3proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.229] [warning] Visualizer couldn't open hand_3midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.229] [warning] Visualizer couldn't open hand_3distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_3distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.231] [warning] Visualizer couldn't open hand_4proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.231] [warning] Visualizer couldn't open hand_4midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.232] [warning] Visualizer couldn't open hand_4distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_4distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.233] [warning] Visualizer couldn't open hand_5proxph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5proxph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.234] [warning] Visualizer couldn't open hand_5midph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5midph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.235] [warning] Visualizer couldn't open hand_5distph_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_5distph_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.236] [warning] Visualizer couldn't open hand_thumbprox_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_thumbprox_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.236] [warning] Visualizer couldn't open hand_thumbdist_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_thumbdist_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
+[2026-04-19 21:37:33.238] [warning] Visualizer couldn't open hand_1mc_mirror.vtp because: SimTK Exception thrown at PolygonalMesh.cpp:411:
+  Error detected by Simbody method PolygonalMesh::loadVtpFile(): Attempt to load a VTK PolyData (.vtp) file from file name 'c:\Users\kubis\gym-app\OpenSim\MobL_ARMS_OpenSim3_bimanual_model\Bimanual Upper Arm Model\Geometry\hand_1mc_mirror.vtp' failed with message:
+  SimTK Exception thrown at Xml.cpp:723:
+  Error detected by Simbody method Xml::Element::getValue(): Element <DataArray> is not a value element.
+  (Required condition 'isValueElement()' was not met.)
+
+  (Required condition '!"failed"' was not met.)
+
