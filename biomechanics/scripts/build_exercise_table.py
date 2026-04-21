@@ -10,7 +10,7 @@ import numpy as np
 import os
 from collections import defaultdict
 
-df = pd.read_excel('data/exercise1.xlsx', header=None)
+df = pd.read_excel(r'C:\Users\kubis\Projekte\GYM_APP\data\exercise1.xlsx', header=None)
 raw = df.iloc[4:].copy().reset_index(drop=True)
 
 # ── Spalten-Mapping ────────────────────────────────────────────────────────────
@@ -63,6 +63,8 @@ for gi in range(len(starts) - 1):
     if not name_raw:
         continue
 
+    kombi_raw = str(first[0]).strip() if pd.notna(first[0]) else ''
+
     muscle_raw = ''
     for idx in range(s, e):
         v = raw.loc[idx, 2]
@@ -98,10 +100,13 @@ for gi in range(len(starts) - 1):
     groups.append({
         'name_norm':    name_raw.lower().strip(),
         'muscle_norm':  muscle_raw.lower().strip().rstrip(),
+        'kombi_norm':   kombi_raw.lower().strip(),
         'name_raw':     name_raw,
         'muscle_raw':   muscle_raw,
+        'kombi_raw':    kombi_raw,
         'equipment':    equipment,
         'best_prio':    best_prio,
+        'excel_order':  len(groups),
         'hands':        hands,
         'grip_type':    active_options(best_row, GRIP_COLS),
         'grip_width':   active_options(best_row, GRIP_W_COLS),
@@ -118,80 +123,92 @@ for gi in range(len(starts) - 1):
 # Innerhalb derselben (muscle, name)-Gruppe: welche Dimension variiert?
 # Reihenfolge wie im DB-Schema: plane > cable_height > bench_type > stand > body_pos > hands
 DISCRIMINANT_DIMS = [
-    ('plane',      lambda g: tuple(g['plane'])),
-    ('cable_h',    lambda g: tuple(g['cable_h'])),
-    ('bench_t',    lambda g: tuple(g['bench_t'])),
-    ('stand',      lambda g: tuple(g['stand'])),
-    ('body_pos',   lambda g: tuple(g['body_pos'])),
-    ('hands',      lambda g: tuple(g['hands'])),
+    ('plane',        lambda g: tuple(g['plane'])),
+    ('cable_h',      lambda g: tuple(g['cable_h'])),
+    ('bench_t',      lambda g: tuple(g['bench_t'])),
+    ('stand',        lambda g: tuple(g['stand'])),
+    ('body_pos',     lambda g: tuple(g['body_pos'])),
+    ('bench_cable',  lambda g: tuple(g['bench_cable'])),
+    ('hands',        lambda g: tuple(g['hands'])),
 ]
 
-# Gruppen nach (muscle, name) zusammenfassen
+# Gruppen nach (kombi, muscle, name) zusammenfassen
 by_name = defaultdict(list)
 for g in groups:
-    by_name[(g['muscle_norm'], g['name_norm'])].append(g)
+    by_name[(g['kombi_norm'], g['muscle_norm'], g['name_norm'])].append(g)
 
 def discriminant_value(g, dim):
     """Gibt den Display-String fuer den Discriminant-Wert einer Gruppe."""
     val = g[dim]
     if not val:
         return None
-    if dim == 'plane':
-        return '/'.join(val)
-    if dim == 'cable_h':
-        return '/'.join(val)
-    if dim == 'bench_t':
-        return '/'.join(val)
     if dim == 'stand':
         return '/'.join(v + '°' for v in val)
-    if dim == 'body_pos':
-        return '/'.join(val)
     if dim == 'hands':
         return '/'.join(val) + ' Hand'
     return '/'.join(val)
 
-# Fuer jede (muscle, name)-Gruppe den Discriminant bestimmen
-# und Duplikate (gleiche Discriminant-Werte) zusammenfuehren
-records = []
-for (muscle_norm, name_norm), grp_list in by_name.items():
+def assign_discriminants(grp_list, dim_list):
+    """
+    Weist jedem Eintrag rekursiv einen Discriminant-Wert zu.
+    Gibt Liste von (g, disc_parts) zurueck, wobei disc_parts eine Liste von
+    (dim, dv)-Tupeln ist.
+    Bei unvermeidbaren Duplikaten (keine Dimension mehr variiert) wird
+    die beste Gruppe per Prioritaet gewaehlt.
+    """
     if len(grp_list) == 1:
-        # Keine Varianten → kein Discriminant
-        g = grp_list[0]
-        records.append({**g, 'discriminant': '', 'disc_val': ''})
-        continue
+        return [(grp_list[0], [])]
 
-    # Welche Dimension variiert?
+    # Erste variierende Dimension finden
     disc_dim = None
-    for dim, key_fn in DISCRIMINANT_DIMS:
+    for dim, key_fn in dim_list:
         vals = set(key_fn(g) for g in grp_list)
         if len(vals) > 1:
             disc_dim = dim
             break
 
-    # Fuer jeden eindeutigen Discriminant-Wert die beste Gruppe waehlen
-    seen = {}
+    if disc_dim is None:
+        # Keine variierende Dimension mehr → beste Gruppe waehlen
+        best = max(grp_list, key=lambda g: g['best_prio'])
+        return [(best, [])]
+
+    # Nach disc_dim gruppieren
+    sub_groups = defaultdict(list)
     for g in grp_list:
-        if disc_dim:
-            dv = discriminant_value(g, disc_dim) or ''
-        else:
-            dv = ''
-        if dv not in seen or g['best_prio'] > seen[dv]['best_prio']:
-            seen[dv] = g
+        dv = discriminant_value(g, disc_dim) or ''
+        sub_groups[dv].append(g)
 
-    for dv, g in seen.items():
-        records.append({**g, 'discriminant': disc_dim or '', 'disc_val': dv})
+    remaining = [(d, f) for d, f in dim_list if d != disc_dim]
+    result = []
+    for dv, sub_grp in sub_groups.items():
+        for g, parts in assign_discriminants(sub_grp, remaining):
+            result.append((g, [(disc_dim, dv)] + parts))
+    return result
 
-# ── Sortierung ─────────────────────────────────────────────────────────────────
-MUSCLE_ORDER = ['triceps', 'biceps', 'chest', 'shoulder', 'back', 'lat',
-                'forearm', 'abs', 'glute', 'legs', 'core']
+# Fuer jede (kombi, muscle, name)-Gruppe Discriminants zuweisen
+records = []
+for (kombi_norm, muscle_norm, name_norm), grp_list in by_name.items():
+    if len(grp_list) == 1:
+        g = grp_list[0]
+        records.append({**g, 'discriminant': '', 'disc_val': ''})
+        continue
 
+    for g, parts in assign_discriminants(grp_list, DISCRIMINANT_DIMS):
+        disc_dims_used = '/'.join(d for d, _ in parts)
+        disc_val = '/'.join(dv for _, dv in parts if dv)
+        records.append({**g, 'discriminant': disc_dims_used, 'disc_val': disc_val})
+
+# excel_order des ersten Vorkommens pro (kombi, muscle, name) bestimmen
+first_order = {}
+for g in groups:
+    key = (g['kombi_norm'], g['muscle_norm'], g['name_norm'])
+    if key not in first_order:
+        first_order[key] = g['excel_order']
+
+# ── Sortierung: Reihenfolge aus Excel ─────────────────────────────────────────
 def sort_key(r):
-    m = r['muscle_norm']
-    try:
-        mo = MUSCLE_ORDER.index(m)
-    except ValueError:
-        mo = 99
-    return (mo, r['name_norm'], r['disc_val'])
+    key = (r['kombi_norm'], r['muscle_norm'], r['name_norm'])
+    return (first_order.get(key, 9999), r['disc_val'])
 
 records.sort(key=sort_key)
 
@@ -204,6 +221,7 @@ for r in records:
         display = r['name_raw']
 
     rows_out.append({
+        'Kombi':             r['kombi_raw'],
         'Uebung':            display,
         'Muskel':            r['muscle_raw'],
         'Equipment_default': r['equipment'],
@@ -227,25 +245,29 @@ for r in records:
         'elbow_flex_end':       '',
         'elbow_flex_fix':       '',
         'elv_angle_override':   '',
+        'shoulder_rot_start':   '',
+        'shoulder_rot_end':     '',
+        'shoulder_rot_fix':     '',
         'Notizen':              '',
     })
 
 out = pd.DataFrame(rows_out)
 
 # ── Excel speichern ────────────────────────────────────────────────────────────
-os.makedirs(r'OpenSim\execution', exist_ok=True)
-outpath = r'OpenSim\execution\exercise_kinematics.xlsx'
+
+outpath = r'C:\Users\kubis\Projekte\GYM_APP\biomechanics\execution\exercise_kinematics.xlsx'
 
 with pd.ExcelWriter(outpath, engine='openpyxl') as writer:
     out.to_excel(writer, index=False, sheet_name='Uebungen')
     ws = writer.sheets['Uebungen']
-    ws.column_dimensions['A'].width = 40
-    ws.column_dimensions['B'].width = 12
-    ws.column_dimensions['C'].width = 20
-    for col in 'DEFGHIJKLMN':
+    ws.column_dimensions['A'].width = 22  # Kombi
+    ws.column_dimensions['B'].width = 40  # Uebung
+    ws.column_dimensions['C'].width = 12  # Muskel
+    ws.column_dimensions['D'].width = 20  # Equipment
+    for col in 'EFGHIJKLMNO':
         ws.column_dimensions[col].width = 12
-    ws.column_dimensions['O'].width = 16
-    for col in ['P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X']:
+    ws.column_dimensions['P'].width = 16
+    for col in ['Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']:
         ws.column_dimensions[col].width = 18
 
 print(f"Saved: {outpath}")
