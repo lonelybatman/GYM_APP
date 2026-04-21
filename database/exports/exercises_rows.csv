@@ -1,0 +1,92 @@
+id,full_name,exercise_kombi,target_muscle,exercise_name,muscle_id,is_superdefault,created_at
+0ab1ff19-3648-4781-b072-c5ed5222a030,Bench + Freeweight > back > kelso shrugg,Bench + Freeweight,back,kelso shrugg,38beb3e5-86ed-4583-8aac-b8c4f4929953,false,2026-04-03 19:05:59.251008+00
+12f945f8-18b2-441c-ae46-1c5bc14a4a87,free + freeweight > legs > squat,free + freeweight,legs,squat,396b32dd-a4a5-411d-aa20-02ded2065b38,true,2026-04-03 19:05:59.251008+00
+1315e5cf-a85e-459e-b451-906e5bf659b7,lat row > shoulder > rear pull,lat row,shoulder,rear pull,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+13519442-949c-497a-a1ba-0699a26b9d9e,cable + bench > chest > fly,cable + bench,chest,fly,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+15c91401-dc97-4802-b497-54d24d79925d,Lat pull > abs > crunch,Lat pull,abs,crunch,d0211c99-b213-4e1f-a387-c6052f79d833,false,2026-04-03 19:05:59.251008+00
+1871db61-13bd-4a34-bace-e2259d4cc954,Free + Cable > shoulder > front row,Free + Cable,shoulder,front row,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+1ab32b74-f022-4812-a310-157bb50c158d,Bench + Freeweight > triceps > overhead extension,Bench + Freeweight,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+1c4ef493-244a-4da4-8ecc-d959f9be8f3b,Free + Cable > triceps > pushdown,Free + Cable,triceps,pushdown,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+1daeea47-278b-4942-ac2f-1ebeab1c713e,lat row 2 > back > row,lat row 2,back,row,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+20f6c002-84d1-41d3-8d24-d11630b75f28,Bench + Freeweight > shoulder > rear raise,Bench + Freeweight,shoulder,rear raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+21d92669-91ed-4cc5-893c-bd002f6b6a21,cable + bench > shoulder > rev fly,cable + bench,shoulder,rev fly,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+2524daf2-3d30-434c-bb66-d376cf3aae3e,lat row 2 > biceps > curl,lat row 2,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+275410a5-51d4-49d3-9d2b-7df4f96dd2a1,lat row 2 > shoulder > rear pull,lat row 2,shoulder,rear pull,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+2763d7a3-edd9-4109-b4c9-b614066e72e3,cable + bench > biceps > curl,cable + bench,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+27d4fbaf-d9b3-46c0-ba2e-07719c54cf43,cable + bench > triceps > overhead extension,cable + bench,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+2eb87d57-7544-4338-8d12-d58a184a7615,Free + Cable > chest > fly,Free + Cable,chest,fly,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+2ff05c39-55fd-4817-befb-c91070dbcf75,Lat pull > lat > pull,Lat pull,lat,pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+307f2e6f-4403-4ed6-8805-25099c660dce,Free + Cable > triceps > overhead extension,Free + Cable,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+30cac850-ea3a-4735-9621-d0936c589d46,Lat pull > triceps > extension,Lat pull,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+32d4527b-53d8-4ce4-818b-69aeea48113f,free + freeweight > core > core,free + freeweight,core,core,d0211c99-b213-4e1f-a387-c6052f79d833,false,2026-04-03 19:05:59.251008+00
+332a451d-2048-4500-99eb-8c13b3f37579,Free + Cable > biceps > curl,Free + Cable,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+3c7c07db-7fe2-4e93-be69-9019f4fa31a2,Lat pull > biceps > curl,Lat pull,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+3d4519b0-2dcd-4445-a060-877feb2ceeca,Bench + Freeweight > triceps > skull crusher,Bench + Freeweight,triceps,skull crusher,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+426ef352-f76d-4c56-a7af-833b0b507235,lat row > back > face pull,lat row,back,face pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+479156de-9f7e-4f6b-8e10-0dc332a580c5,Bench + Freeweight > biceps > spider curl,Bench + Freeweight,biceps,spider curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+48124066-0481-4f55-af43-354353ee7298,cable + bench > lat > pull,cable + bench,lat,pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+49e6b7f1-77d1-4633-9e41-5a282cf69d47,cable + bench > triceps > extension,cable + bench,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+4aeba724-0516-44fb-bcc9-d185ae1e68c7,free + freeweight > shoulder > front raise,free + freeweight,shoulder,front raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+4aeced89-4339-4bf4-9a25-5df484b35b18,Free + Cable > triceps > extension,Free + Cable,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+4c3f10d1-dd93-491c-ba7f-10fdfe971628,cable + bench > biceps > curl,cable + bench,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+4db67245-b612-4968-a378-f90f3f87a6a2,Bench + Freeweight > chest > press,Bench + Freeweight,chest,press,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+4fc4c4f7-f39a-44d7-baa2-d654ca2639a9,cable + bench > chest > fly,cable + bench,chest,fly,0e10c3cd-b89d-4b74-b52b-10fec101513c,false,2026-04-03 19:05:59.251008+00
+50f86a78-95d1-4521-91c0-ecaa3d86d78c,cable + bench > triceps > overhead extension,cable + bench,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+5359331b-ad3e-418e-a0a0-b115874f9329,Free + Cable > shoulder > archer pull,Free + Cable,shoulder,archer pull,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+5995e650-2419-4298-80c1-45b1628b4da6,Free + Cable > shoulder > lateral raise,Free + Cable,shoulder,lateral raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+5a961080-fa56-4d6c-8f76-fed57faa3566,cable + bench > back > kenan flap,cable + bench,back,kenan flap,38beb3e5-86ed-4583-8aac-b8c4f4929953,false,2026-04-03 19:05:59.251008+00
+5d48389c-b5d4-4bde-af3c-296bb38b2267,Bench + Freeweight > shoulder > press,Bench + Freeweight,shoulder,press,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+5d78b37a-c8e7-464a-a716-fef70371ecc2,Lat pull2 > lat > pull,Lat pull2,lat,pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+5defc1c9-ab8d-427a-8c4e-d055fd6ab823,Free + Cable > triceps > extension,Free + Cable,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+5e34ed03-5c4d-4924-86a3-ac453c35c5e4,free + freeweight > shoulder > press,free + freeweight,shoulder,press,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+615fda25-a64e-4716-a58a-6d5a798f26f6,cable + bench > shoulder > archer pull,cable + bench,shoulder,archer pull,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+6bf8b940-db1a-4dc9-8828-74356b543ff0,Bench + Freeweight > chest > press,Bench + Freeweight,chest,press,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+6d3cfaae-7d72-44e3-bb38-a3de5970085b,Free + Cable > biceps > curl,Free + Cable,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+6fff870a-9bad-45c6-9f30-fa3a371858be,Bench + Freeweight > shoulder > front raise,Bench + Freeweight,shoulder,front raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+7f82cfec-ebb2-4a63-8409-b8737f05e075,cable + bench > chest > fly,cable + bench,chest,fly,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+80b2e6be-03e2-474a-bde8-49387e0c30e0,free + freeweight > glute > hyperextension,free + freeweight,glute,hyperextension,fe372688-956b-430b-b94e-49fac8e71281,true,2026-04-03 19:05:59.251008+00
+81773d01-bb10-44b8-81b0-70a0ac84e226,lat row 2 > back > face pull,lat row 2,back,face pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+8440627c-5e6c-4bfe-b75d-654859feb3b9,lat row > biceps > curl,lat row,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+8446f2f9-a451-46c8-89bd-f97312313f96,Bench + Freeweight > triceps > overhead extension,Bench + Freeweight,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+8543c028-1243-4d92-8bcd-a9878fc55c38,Bench + Freeweight > forearm > flexion,Bench + Freeweight,forearm,flexion,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+8730ed42-c32e-4961-aadd-4faaf44731c7,Bench + Freeweight > shoulder > rear raise,Bench + Freeweight,shoulder,rear raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+906fd428-0187-425b-90c6-ec64357a8e62,cable + bench > triceps > extension,cable + bench,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+933f308b-a289-4124-8993-cd3533256a14,free + freeweight > back > deadlift,free + freeweight,back,deadlift,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+9800505b-5d60-4bcf-b7e4-bb4582b3e8cf,Bench + Freeweight > back > shrugg,Bench + Freeweight,back,shrugg,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+9daac6f4-3bf8-4d15-80bd-0cad3c45b6ce,Bench + Freeweight > biceps > curl,Bench + Freeweight,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+9e34bab4-b757-447b-bc1a-0bad9071ebf6,Bench + Freeweight > shoulder > lateral raise,Bench + Freeweight,shoulder,lateral raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+a254ddde-8e50-4e8d-bae2-1e5901911d8d,cable + bench > triceps > pushdown,cable + bench,triceps,pushdown,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+a3bb8ea0-cf19-47ce-8326-70813736435c,free + freeweight > back > shrugg,free + freeweight,back,shrugg,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+a4d76f8e-8767-41ac-9dd4-87604a5ff16b,Bench + Freeweight > triceps > overhead extension,Bench + Freeweight,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+a79a30bd-d721-4117-a45c-6fbd44152dfb,Free + Cable > triceps > overhead extension,Free + Cable,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+a9792e0b-d878-40b0-83ea-450c39c2dbb6,Free + Cable > back > face pull,Free + Cable,back,face pull,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+ac78957a-3113-4d17-aa22-561213fe8662,Free + Cable > biceps > crossbody curl,Free + Cable,biceps,crossbody curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+b24786e9-4456-4d92-9b09-cd668d9d7129,Free + Cable > shoulder > front raise,Free + Cable,shoulder,front raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+b42d14f1-0195-4da1-b07a-2ea72d25803c,lat row > lat > row,lat row,lat,row,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+b74a9777-4dfd-4e68-83a9-88c049ba9e3a,lat row 2 > forearm > extension,lat row 2,forearm,extension,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+b9614b29-fd3c-483c-9a3e-354f2c297e4f,lat row > back > extension,lat row,back,extension,38beb3e5-86ed-4583-8aac-b8c4f4929953,false,2026-04-03 19:05:59.251008+00
+c300f973-aab4-46cd-8b58-f23e66f539c4,lat row 2 > back > extension,lat row 2,back,extension,38beb3e5-86ed-4583-8aac-b8c4f4929953,false,2026-04-03 19:05:59.251008+00
+c6a3dfc1-4212-44d2-a1c8-47f3707321e6,lat row 2 > forearm > flexion,lat row 2,forearm,flexion,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+ca1ac485-c5ad-4314-8d0a-4849db150506,Lat pull2 > abs > crunch,Lat pull2,abs,crunch,d0211c99-b213-4e1f-a387-c6052f79d833,false,2026-04-03 19:05:59.251008+00
+ca86ff8b-614a-4e49-8c83-19897df290db,lat row > forearm > flexion,lat row,forearm,flexion,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+cb8b9362-3b15-4130-bc66-ab8518db54aa,Bench + Freeweight > biceps > concentration curl,Bench + Freeweight,biceps,concentration curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+d03e2c58-f56e-4bf7-ad8c-d2afba750992,free + freeweight > shoulder > lateral raise,free + freeweight,shoulder,lateral raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,true,2026-04-03 19:05:59.251008+00
+d386d043-89e7-4b41-8edb-b9ddc29efa5b,Bench + Freeweight > triceps > overhead extension,Bench + Freeweight,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+d70ccdb3-1432-4804-8986-7740fe5aed3f,Free + Cable > biceps > curl,Free + Cable,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,false,2026-04-03 19:05:59.251008+00
+d8cacbc2-08fe-4b62-946a-c80eb0e2a6c5,free + freeweight > forearm > flexion,free + freeweight,forearm,flexion,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+db2eee4c-9f39-4d9c-908f-208e44e20a0c,Bench + Freeweight > shoulder > Y raise,Bench + Freeweight,shoulder,Y raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+dc09dce2-b160-4c86-819a-78d8295a166f,Free + Cable > biceps > Bayesian curl,Free + Cable,biceps,Bayesian curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+dc2ae24a-b8dd-4ffc-96d6-0c1867562eac,Bench + Freeweight > forearm > extension,Bench + Freeweight,forearm,extension,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+dc535b9c-42d1-4d1f-85f7-ca8ae1e29787,free + freeweight > legs > Romanian Deadlift,free + freeweight,legs,Romanian Deadlift,396b32dd-a4a5-411d-aa20-02ded2065b38,true,2026-04-03 19:05:59.251008+00
+dfa6f87a-cb48-4732-b521-90d421ebfdf5,Lat pull2 > triceps > extension,Lat pull2,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+e0725795-5708-49bc-ad7f-b3149c6feb5c,cable + bench > triceps > overhead extension,cable + bench,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+e201c7f7-2645-4511-ac46-fffd7047c022,cable + bench > shoulder > front raise,cable + bench,shoulder,front raise,112af07d-ffb9-400c-b9fe-4ec1c718a868,false,2026-04-03 19:05:59.251008+00
+e26c60c0-9f53-43b8-823b-962ab624a4d0,free + freeweight > forearm > extension,free + freeweight,forearm,extension,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
+e4236f7e-d066-4d5e-a76a-777eeea053de,Free + Cable > triceps > overhead extension,Free + Cable,triceps,overhead extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+e7b87747-3a1f-4cfc-9d97-963ee8b4c299,free + freeweight > back > back row,free + freeweight,back,back row,38beb3e5-86ed-4583-8aac-b8c4f4929953,true,2026-04-03 19:05:59.251008+00
+e7f73fec-4b61-4cf5-8e74-85b5c0068b70,Bench + Freeweight > triceps > skull crusher,Bench + Freeweight,triceps,skull crusher,7924cdc2-796f-496b-8a75-c3e0a9593184,true,2026-04-03 19:05:59.251008+00
+ed1a3a21-e1e5-4768-98d4-cede563e3461,Lat pull2 > biceps > curl,Lat pull2,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+ed97b62d-229e-4ed6-a162-b7b73bf8eb0d,Bench + Freeweight > chest > fly,Bench + Freeweight,chest,fly,0e10c3cd-b89d-4b74-b52b-10fec101513c,true,2026-04-03 19:05:59.251008+00
+edbb69b4-1f27-429d-93b3-2654d3a3f776,cable + bench > triceps > extension,cable + bench,triceps,extension,7924cdc2-796f-496b-8a75-c3e0a9593184,false,2026-04-03 19:05:59.251008+00
+fb874419-dbf9-4f3d-821a-8e3b13fbbe30,free + freeweight > biceps > curl,free + freeweight,biceps,curl,828b537f-a9f0-45fb-9ba5-71626b9937ed,true,2026-04-03 19:05:59.251008+00
+ff69a20d-a291-42b3-80e4-c4da224ccfde,lat row > forearm > extension,lat row,forearm,extension,d6b1d3fb-c9a4-4fb3-bd89-ac4c140a760b,true,2026-04-03 19:05:59.251008+00
