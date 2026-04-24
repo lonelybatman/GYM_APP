@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 — Entwicklung/Architektur/Commands Claude Code.md",
+                "file": "01 — Entwicklung/KI & Scan/Kinematic/excel kinem todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands Claude Code"
+              "title": "excel kinem todo"
             }
           }
         ]
@@ -183,20 +183,25 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "57fa4d4fcfe16bdf",
+  "active": "d2b82226a3daa899",
   "lastOpenFiles": [
+    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
+    "01 — Entwicklung/KI & Scan/Kinematic/excel kinem todo.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/OpenSim gemini.md",
     "01 — Entwicklung/KI & Scan/OpenSim/OpenSim vorbereiten.md",
     "01 — Entwicklung/KI & Scan/OpenSim/Bearbeiten Anleitung.md",
-    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
-    "01 — Entwicklung/KI & Scan/OpenSim/OpenSim gemini.md",
+    "01 — Entwicklung/KI & Scan/Kinematic/Erklärung.md",
     "01 — Entwicklung/KI & Scan/OpenSim/To Do.md",
+    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
+    "01 — Entwicklung/Datenbank/supabase+bilder.md",
+    "01 — Entwicklung/KI & Scan/Wegweiser für Cursor.md",
+    "01 — Entwicklung/KI & Scan/Plan_2 (Gemini + gpai).md",
+    "01 — Entwicklung/KI & Scan/Plan_1 (Gemini + gpai).md",
+    "01 — Entwicklung/Architektur/Commands Claude Code.md",
     "01 — Entwicklung/Architektur/claude.md",
     "Pasted image 20260419162657.png",
-    "01 — Entwicklung/Architektur/Commands Claude Code.md",
     "01 — Entwicklung/3D & Visualisierung/3D Modell mit blender.md",
     "01 — Entwicklung/3D & Visualisierung/3D Modell in der App.md",
-    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
-    "01 — Entwicklung/KI & Scan/Plan_2 (Gemini + gpai).md",
     "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
     "01 — Entwicklung/3D & Visualisierung/Claude Perspektiven.md",
     "MOC — Gym App.md",
@@ -222,11 +227,6 @@
     "01 — Entwicklung/Datenbank/seddkE5L6",
     "01 — Entwicklung/Exercise Builder/sedyMq7t5",
     "01 — Entwicklung/3D & Visualisierung/sed5zPvkQ",
-    "02 — Planung/To Do/sed4vT1Zj",
-    "excel data to superbase.md",
-    "02 — Planung/Changelog/02.04..md",
-    "02 — Planung/Changelog/31.03..md",
-    "02 — Planung/Changelog/30.03..md",
-    "02 — Planung/To Do/TRAAAASH.md"
+    "02 — Planung/To Do/sed4vT1Zj"
   ]
 }
