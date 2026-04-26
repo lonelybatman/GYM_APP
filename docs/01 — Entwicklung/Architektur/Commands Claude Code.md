@@ -1,4 +1,4 @@
-cd "C:\Users\kubis\gym-app"; claude
+cd "C:\Users\kubis\Projekte\GYM_APP"; claude
 cd "C:\Users\kubis\gym-app"; npx expo start
 cd "C:\Users\kubis\gym-app\data"
 
