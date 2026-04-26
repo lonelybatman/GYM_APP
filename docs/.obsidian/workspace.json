@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
+                "file": "01 — Entwicklung/KI & Scan/Machine/Plan Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berechnung von der Muskelaktivierung"
+              "title": "Plan Gemini"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "57fa4d4fcfe16bdf",
   "lastOpenFiles": [
+    "01 — Entwicklung/KI & Scan/Machine/YOLO.md",
+    "01 — Entwicklung/KI & Scan/Machine/Plan Gemini.md",
     "01 — Entwicklung/KI & Scan/Machine/GPAI Plan.md",
-    "01 — Entwicklung/KI & Scan/Machine",
     "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
+    "01 — Entwicklung/KI & Scan/Machine",
     "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
     "01 — Entwicklung/Architektur/Commands Claude Code.md",
     "02 — Planung/To Do/excel kinem todo.md",
@@ -212,7 +214,6 @@
     "01 — Entwicklung/KI & Scan/OpenSim",
     "01 — Entwicklung/Architektur/Claude code.md",
     "01 — Entwicklung/Datenbank/excel data to superbase.md",
-    "03 — Ressourcen/Youtube videos.md",
     "Unbenannt.canvas",
     "Pasted image 20260408222436.png",
     "Pasted image 20260405221643.png",
