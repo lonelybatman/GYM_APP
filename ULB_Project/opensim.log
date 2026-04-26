@@ -1,0 +1,6 @@
+[2026-04-25 21:33:13.671] [info] Updating Model file from 10600 to latest format...
+[2026-04-25 21:33:13.676] [warning] Model name 'UpperLower Body Model' contains whitespace.
+[2026-04-25 21:33:13.677] [warning] It was renamed to 'UpperLowerBodyModel'.
+[2026-04-25 21:33:23.318] [info] Updating Model file from 10600 to latest format...
+[2026-04-25 21:33:23.323] [warning] Model name 'UpperLower Body Simple Model' contains whitespace.
+[2026-04-25 21:33:23.323] [warning] It was renamed to 'UpperLowerBodySimpleModel'.

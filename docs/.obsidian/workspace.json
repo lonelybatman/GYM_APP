@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 — Entwicklung/3D & Visualisierung/Blender Video Pipeline.md",
+                "file": "01 — Entwicklung/KI & Scan/Machine/GPAI Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blender Video Pipeline"
+              "title": "GPAI Plan"
             }
           }
         ]
@@ -185,25 +185,27 @@
   },
   "active": "57fa4d4fcfe16bdf",
   "lastOpenFiles": [
-    "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
+    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
+    "01 — Entwicklung/KI & Scan/Machine/GPAI Plan.md",
+    "01 — Entwicklung/KI & Scan/Machine",
+    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
+    "01 — Entwicklung/Architektur/Commands Claude Code.md",
+    "02 — Planung/To Do/excel kinem todo.md",
+    "01 — Entwicklung/KI & Scan/Kinematic/excel kinem todo.md",
+    "01 — Entwicklung/KI & Scan/OpenSim/To Do.md",
     "01 — Entwicklung/3D & Visualisierung/Blender Video Pipeline.md",
+    "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
     "01 — Entwicklung/3D & Visualisierung/Claude Perspektiven.md",
     "01 — Entwicklung/3D & Visualisierung/3D Modell mit blender.md",
     "01 — Entwicklung/3D & Visualisierung/3D Modell in der App.md",
-    "02 — Planung/To Do/excel kinem todo.md",
-    "01 — Entwicklung/KI & Scan/Kinematic/excel kinem todo.md",
     "01 — Entwicklung/KI & Scan/Kinematic/Erklärung.md",
-    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
     "01 — Entwicklung/KI & Scan/OpenSim/OpenSim gemini.md",
     "01 — Entwicklung/KI & Scan/OpenSim/OpenSim vorbereiten.md",
     "01 — Entwicklung/KI & Scan/OpenSim/Bearbeiten Anleitung.md",
-    "01 — Entwicklung/KI & Scan/OpenSim/To Do.md",
-    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
     "01 — Entwicklung/Datenbank/supabase+bilder.md",
     "01 — Entwicklung/KI & Scan/Wegweiser für Cursor.md",
     "01 — Entwicklung/KI & Scan/Plan_2 (Gemini + gpai).md",
     "01 — Entwicklung/KI & Scan/Plan_1 (Gemini + gpai).md",
-    "01 — Entwicklung/Architektur/Commands Claude Code.md",
     "01 — Entwicklung/Architektur/claude.md",
     "Pasted image 20260419162657.png",
     "MOC — Gym App.md",
@@ -212,7 +214,6 @@
     "01 — Entwicklung/Datenbank/excel data to superbase.md",
     "03 — Ressourcen/Youtube videos.md",
     "03 — Ressourcen/Unbenannt.md",
-    "03 — Ressourcen/Scans.md",
     "Unbenannt.canvas",
     "Pasted image 20260408222436.png",
     "Pasted image 20260405221643.png",
@@ -226,7 +227,6 @@
     "01 — Entwicklung/Datenbank/sedfIkt5k",
     "01 — Entwicklung/Datenbank/seddkE5L6",
     "01 — Entwicklung/Exercise Builder/sedyMq7t5",
-    "01 — Entwicklung/3D & Visualisierung/sed5zPvkQ",
-    "02 — Planung/To Do/sed4vT1Zj"
+    "01 — Entwicklung/3D & Visualisierung/sed5zPvkQ"
   ]
 }
