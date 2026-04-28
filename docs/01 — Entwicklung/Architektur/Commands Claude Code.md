@@ -2,6 +2,10 @@ cd "C:\Users\kubis\Projekte\GYM_APP"; claude
 cd "C:\Users\kubis\gym-app"; npx expo start
 cd "C:\Users\kubis\gym-app\data"
 
+cd "C:\Users\kubis\Projekte\KI\cvat"
+docker compose up -d
+http://localhost:8080
+
 Version die eig passt 
 - Commit: `ab97e26`
 - Message: `Stabilize Step3 to Exercise Builder overlay flow.`

@@ -1,0 +1,1 @@
+einen Crackhead schreiben und nach allen Übungen fragen die er kennt. Videos davon, dass ich es einfügen kann. 
