@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/CVAT 1. Kategorisierung.md",
+                "file": "01 — Entwicklung/KI & Scan/Machine_new/CVAT/Skel_Linear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CVAT 1. Kategorisierung"
+              "title": "Skel_Linear"
+            }
+          },
+          {
+            "id": "5cbe6cc657658b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CVAT Setup Anleitung"
+            }
+          },
+          {
+            "id": "00c94d2697e583d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Überblick"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "right": {
     "id": "6f05bec3ebedc878",
@@ -183,50 +212,53 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "57fa4d4fcfe16bdf",
+  "active": "00c94d2697e583d4",
   "lastOpenFiles": [
-    "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/Perplexity Family Merkmale.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/3D Rekonstruktion.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Active Learning.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Active Learning.md.tmp.37104.1777662866233",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Modelle & Training.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Annotation Strategie.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Annotation Strategie.md.tmp.37104.1777662834534",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/Tabelle.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz/Überblick.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Neuer Ansatz",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Pics/1.md",
+    "IL_chest_press_0.png",
+    "Pasted image 20260501204828.png",
+    "Pasted image 20260501200608.png",
+    "01 — Entwicklung/KI & Scan/Machine_new/Pics",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md.tmp.37104.1777658118819",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md.tmp.37104.1777658116163",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md.tmp.37104.1777658110342",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/CVAT Setup Anleitung.md.tmp.37104.1777657958377",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/Skel_Linear.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/System Plan.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Muscle Sensor/Datenaufnahme.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Muscle Sensor/Überblick.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Muscle Sensor/Muskelgruppen & Sensor Placement.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Muscle Sensor/Modell Training.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/Muscle Sensor/Modell Training.md.tmp.37104.1777657072403",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/Skel_Rot_Complex.md",
+    "01 — Entwicklung/KI & Scan/Machine_new/CVAT/Skel_Rot_Simple.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/1. Klassifizierung.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Hauptlabels.md",
+    "01 — Entwicklung/Architektur/Commands Claude Code.md",
+    "02 — Planung/To Do/excel kinem todo.md",
     "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/CVAT 1. Kategorisierung.md",
+    "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/Perplexity Family Merkmale.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Unterlabels.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Was die KI wirklich lernen kann.md",
     "01 — Entwicklung/KI & Scan/Machine/Plan/Plan Gemini.md",
     "01 — Entwicklung/KI & Scan/Machine/Plan/GPAI Plan.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Was die KI wirklich lernen kann.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Unterlabels.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Hauptlabels.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/zzz_Order.md",
-    "00 — Vision/Body Scan.md",
-    "00 — Vision/Science based Lifter.md",
-    "00 — Vision/KI.md",
-    "00 — Vision",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling",
-    "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung",
-    "01 — Entwicklung/KI & Scan/Machine/Plan/VCAT, YOLO und Physik engine.md",
-    "01 — Entwicklung/Architektur/Commands Claude Code.md",
-    "01 — Entwicklung/KI & Scan/Machine/Plan",
-    "01 — Entwicklung/KI & Scan/Machine/Plan Gemini.md",
-    "01 — Entwicklung/KI & Scan/Machine/GPAI Plan.md",
-    "01 — Entwicklung/KI & Scan/Machine/YOLO.md",
-    "01 — Entwicklung/KI & Scan/Kinematic/Erklärung.md",
-    "01 — Entwicklung/KI & Scan/Kinematic/excel kinem todo.md",
-    "01 — Entwicklung/KI & Scan/Berechnung von der Muskelaktivierung.md",
-    "01 — Entwicklung/KI & Scan/Machine",
-    "01 — Entwicklung/KI & Scan/OpenSim/Muskelaktivierung — Fortschritt.md",
-    "02 — Planung/To Do/excel kinem todo.md",
-    "01 — Entwicklung/KI & Scan/OpenSim/To Do.md",
-    "01 — Entwicklung/3D & Visualisierung/Blender Video Pipeline.md",
-    "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
-    "01 — Entwicklung/3D & Visualisierung/Claude Perspektiven.md",
-    "01 — Entwicklung/3D & Visualisierung/3D Modell mit blender.md",
     "Pasted image 20260419162657.png",
-    "01 — Entwicklung/KI & Scan/OpenSim",
     "Unbenannt.canvas",
     "Pasted image 20260408222436.png",
     "Pasted image 20260405221643.png",
     "Pasted image 20260327193522.png",
     "Pasted image 20260327193516.png",
-    "Pasted image 20260326094449.png",
-    "MOC — Gym App.md.tmp.12252.1776004650424",
-    "02 — Planung/To Do/sedsV7fnm",
-    "02 — Planung/To Do/sedhvWZ1i",
-    "01 — Entwicklung/KI & Scan/sedaaTrwD"
+    "Pasted image 20260326094449.png"
   ]
 }
