@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 — Entwicklung/KI & Scan/Machine/Labeling/Unterlabels.md",
+                "file": "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/CVAT 1. Kategorisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unterlabels"
+              "title": "CVAT 1. Kategorisierung"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 200
   },
   "right": {
     "id": "6f05bec3ebedc878",
@@ -186,20 +186,21 @@
   "active": "57fa4d4fcfe16bdf",
   "lastOpenFiles": [
     "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/Perplexity Family Merkmale.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Unterlabels.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/zzz_Order.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Hauptlabels.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling/Was die KI wirklich lernen kann.md",
     "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung/CVAT 1. Kategorisierung.md",
-    "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung",
+    "01 — Entwicklung/KI & Scan/Machine/Plan/Plan Gemini.md",
+    "01 — Entwicklung/KI & Scan/Machine/Plan/GPAI Plan.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Was die KI wirklich lernen kann.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Unterlabels.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/Hauptlabels.md",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling/zzz_Order.md",
+    "00 — Vision/Body Scan.md",
     "00 — Vision/Science based Lifter.md",
     "00 — Vision/KI.md",
     "00 — Vision",
+    "01 — Entwicklung/KI & Scan/Machine/Labeling",
+    "01 — Entwicklung/KI & Scan/Machine/Plan/CVAT 1. Kategorisierung",
     "01 — Entwicklung/KI & Scan/Machine/Plan/VCAT, YOLO und Physik engine.md",
     "01 — Entwicklung/Architektur/Commands Claude Code.md",
-    "01 — Entwicklung/KI & Scan/Machine/Labeling",
-    "01 — Entwicklung/KI & Scan/Machine/Plan/Plan Gemini.md",
-    "01 — Entwicklung/KI & Scan/Machine/Plan/GPAI Plan.md",
     "01 — Entwicklung/KI & Scan/Machine/Plan",
     "01 — Entwicklung/KI & Scan/Machine/Plan Gemini.md",
     "01 — Entwicklung/KI & Scan/Machine/GPAI Plan.md",
@@ -215,7 +216,6 @@
     "01 — Entwicklung/3D & Visualisierung/Griffe einscannen.md",
     "01 — Entwicklung/3D & Visualisierung/Claude Perspektiven.md",
     "01 — Entwicklung/3D & Visualisierung/3D Modell mit blender.md",
-    "01 — Entwicklung/3D & Visualisierung/3D Modell in der App.md",
     "Pasted image 20260419162657.png",
     "01 — Entwicklung/KI & Scan/OpenSim",
     "Unbenannt.canvas",

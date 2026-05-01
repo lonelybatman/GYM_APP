@@ -1,0 +1,1 @@
+keine Bilder mehr, sondern ein Scan welcher dir deinen Fortschritt zeigt
